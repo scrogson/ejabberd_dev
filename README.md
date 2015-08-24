@@ -13,11 +13,7 @@ Add the package to your `mix.exs` file.
 ```elixir
 # mix.exs
 def deps do
-  [
-    ...
-    {:ejabberd_dev, "~> 14.07.0"}
-    ...
-  ]
+  [{:ejabberd_dev, "~> 15.7.0"}]
 end
 ```
 
