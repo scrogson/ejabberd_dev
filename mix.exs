@@ -11,7 +11,7 @@ defmodule EjabberdDev.Mixfile do
   def project do
     [
       app: :ejabberd_dev,
-      version: "15.7.0",
+      version: "15.9.0",
       elixir: "~> 1.0",
       description: @description,
       package: [
